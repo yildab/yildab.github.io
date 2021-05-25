@@ -2,6 +2,7 @@ baseURL = "http://yilda.ca/"
 languageCode = "en-us"
 title = "Yilda Boukhtouchen"
 theme = "cactus"
+publishDir = "docs"
 
 [[menu.main]]
 name = "Home"
@@ -36,5 +37,3 @@ link = "https://www.linkedin.com/in/yilda-boukhtouchen/"
 [[params.social]]
 name = "twitter"
 link = "https://www.twitter.com/yildabkh"
-
-publishDir: "docs"
