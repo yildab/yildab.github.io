@@ -1,0 +1,39 @@
+baseURL = "http://yilda.ca/"
+languageCode = "en-us"
+title = "Yilda Boukhtouchen"
+theme = "cactus"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "CV"
+url = "/cv"
+weight = 3
+
+[params]
+description = "Hello! I am a graduate student in the Queen's University High Energy Astrophysics Theory Group!"
+
+[[params.social]]
+name = "email"
+link = "https://www.queensu.ca/physics/yilda-boukhtouchen"
+
+[[params.social]]
+name = "github"
+link = "https://github.com/yildab"
+
+[[params.social]]
+name = "linkedin"
+link = "https://www.linkedin.com/in/yilda-boukhtouchen/"
+
+[[params.social]]
+name = "twitter"
+link = "https://www.twitter.com/yildabkh"
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Yilda Boukhtouchen</title>
+    <link>http://yilda.ca/posts/</link>
+    <description>Recent content in Posts on Yilda Boukhtouchen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 May 2021 11:09:07 -0400</lastBuildDate><atom:link href="http://yilda.ca/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://yilda.ca/posts/my-first-post/</link>
+      <pubDate>Tue, 25 May 2021 11:09:07 -0400</pubDate>
+      
+      <guid>http://yilda.ca/posts/my-first-post/</guid>
+      <description>Hello! This is me typing something random.</description>
+    </item>
+    
+  </channel>
+</rss>
