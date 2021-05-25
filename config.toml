@@ -37,3 +37,4 @@ link = "https://www.linkedin.com/in/yilda-boukhtouchen/"
 name = "twitter"
 link = "https://www.twitter.com/yildabkh"
 
+publishDir: "docs"
