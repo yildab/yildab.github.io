@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yilda Boukhtouchen</title>
+    <link>http://yilda.ca/</link>
+    <description>Recent content on Yilda Boukhtouchen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://yilda.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>http://yilda.ca/cv/</link>
+      <pubDate>Tue, 25 May 2021 11:27:21 -0400</pubDate>
+      
+      <guid>http://yilda.ca/cv/</guid>
+      <description>Education Sept 2020 - Present MSc, Physics
+Queen&amp;rsquo;s University, Kingston, ON
+2020 BSc, Honours Mathematical Physics
+Minors in Pure Mathematics and Astrophysics
+University of Waterloo, Waterloo, ON
+Research Experience Sept 2020 - Present Queen&amp;rsquo;s High-Energy Astrophysics Theory (QHEAT) Group Member
+Department of Physics, Astronomy, and Engineering Physics, Queen&amp;rsquo;s University, Kingston, ON
+Graduate research assistantship, supervised by Dr. Joseph Bramante
+Sept 2019 - Dec 2019 Exploring Quantum Entanglement in a Non-Local Game</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://yilda.ca/about/</link>
+      <pubDate>Tue, 25 May 2021 11:26:37 -0400</pubDate>
+      
+      <guid>http://yilda.ca/about/</guid>
+      <description>I am a first-year Master&amp;rsquo;s student in physics and astronomy at Queen&amp;rsquo;s University. I am supervised by Dr. Joseph Bramante, within the Queen&amp;rsquo;s High Energy and Astroparticle Theory Group (QHEAT).
+I graduated with a BSc in mathematical physics from the University of Waterloo in 2020.
+I enjoy taking part in science outreach programs, especially ones aiming to promote interest in science to primary and secondary school students, as well as promoting diversity and inclusion in STEM.</description>
+    </item>
+    
+  </channel>
+</rss>
