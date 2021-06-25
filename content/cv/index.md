@@ -85,13 +85,13 @@ Department of Physics and Astronomy, University of Waterloo, Waterloo, ON
 
 **English**, native/fluent   
 
-**French**, native/first language  
+**French**, native/fluent  
 2016 · French baccalaureate, baccalauréat série sciences, mention très bien
 
-**Spanish**, high intermediate, B2  
+**Spanish**, high intermediate  
 2016 · International Baccalaureate, Spanish B SL
 
-**Korean**, high beginner, A1/A2  
+**Korean**, high beginner  
 2018 · KOREA 101 and KOREA 102, University of Waterloo
 
 ## **Technical Skills**
