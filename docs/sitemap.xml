@@ -2,16 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://yilda.ca/cv/</loc>
+    <loc>https://yildab.github.io/cv/</loc>
     <lastmod>2021-05-25T11:27:21-04:00</lastmod>
   </url><url>
-    <loc>http://yilda.ca/about/</loc>
+    <loc>https://yildab.github.io/about/</loc>
     <lastmod>2021-05-25T11:26:37-04:00</lastmod>
   </url><url>
-    <loc>http://yilda.ca/categories/</loc>
+    <loc>https://yildab.github.io/posts/lta/</loc>
+    <lastmod>2021-02-22T11:55:30-04:00</lastmod>
   </url><url>
-    <loc>http://yilda.ca/tags/</loc>
+    <loc>https://yildab.github.io/posts/</loc>
+    <lastmod>2021-02-22T11:55:30-04:00</lastmod>
   </url><url>
-    <loc>http://yilda.ca/</loc>
+    <loc>https://yildab.github.io/</loc>
+    <lastmod>2021-02-22T11:55:30-04:00</lastmod>
+  </url><url>
+    <loc>https://yildab.github.io/posts/2020books/</loc>
+    <lastmod>2021-01-01T15:05:15-04:00</lastmod>
+  </url><url>
+    <loc>https://yildab.github.io/categories/</loc>
+  </url><url>
+    <loc>https://yildab.github.io/tags/</loc>
   </url>
 </urlset>
