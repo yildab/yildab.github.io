@@ -11,9 +11,9 @@ Sept 2020 - Present
 Queen's University, Kingston, ON
 
 2020
-**BSc, Honours Mathematical Physics**  
+**BSc, Honours Mathematical Physics**
 Minors in Pure Mathematics and Astrophysics  
-University of Waterloo, Waterloo, ON  
+University of Waterloo, Waterloo, ON
 
 ## **Research Experience**
 
@@ -24,7 +24,7 @@ Graduate research assistantship, supervised by Dr. Joseph Bramante
 
 Sept 2019 - Dec 2019
 **Exploring Quantum Entanglement in a Non-Local Game**  
-Department of Physics and Astronomy, University of Waterloo, Waterloo, ON    
+Department of Physics and Astronomy, University of Waterloo, Waterloo, ON  
 Fourth-year research project, supervised by Dr. Shohini Ghose
 
 May 2019 - Aug 2019
@@ -45,24 +45,23 @@ Sept 2020 - Dec 2020
 
 ## **Community Involvement**
 
-Sept 2020 - Present
+Aug 2021 - Present
+**Let's Talk Science Site Scheduling Coordinator**  
+Let's Talk Science, Queen's University, Kingston, ON
+
+Sept 2020 - July 2021
 **Let's Talk Science Volunteer**  
 Let's Talk Science, Queen's University, Kingston, ON
 
 May 2018 - Apr 2020
 **Physics Undergraduate Society (PhysClub) Executive**  
 University of Waterloo Physics Club, University of Waterloo, Waterloo, ON  
-President, Sept 2019 - Apr 2020 · VP, Jan - Apr 2019 · Treasurer, May - Dec 2018 
+President, Sept 2019 - Apr 2020 · VP, Jan - Apr 2019 · Treasurer, May - Dec 2018
 
 ## **Outreach**
 
-Feb 2021
-**Let's Talk Astrophysics Symposium: Dark Matter Coding Workshop**    
-Materials Executive Volunteer  
-Let's Talk Science at Queen's and the IDEAS Initiative, Kingston, ON
-
 Oct 2020
-**Go Eng Girl Trip To Mars: Coding Workshop**    
+**Go Eng Girl Trip To Mars: Coding Workshop**  
 Workbook Creation and Facilitation  
 Let's Talk Science at Queen's and Queen's Connections Engineering Outreach, Kingston, ON
 
@@ -83,7 +82,7 @@ Department of Physics and Astronomy, University of Waterloo, Waterloo, ON
 
 ## **Languages**
 
-**English**, native/fluent   
+**English**, native/fluent
 
 **French**, native/fluent  
 2016 · French baccalaureate, baccalauréat série sciences, mention très bien
@@ -96,7 +95,7 @@ Department of Physics and Astronomy, University of Waterloo, Waterloo, ON
 
 ## **Technical Skills**
 
-**Programming Languages** 
+**Programming Languages**
 Python, C/C++, HTML/CSS
 
 **Tools and Libraries**
