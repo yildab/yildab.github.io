@@ -1,4 +1,4 @@
-baseURL = "yilda.ca"
+baseURL = "https://physics.yilda.ca"
 languageCode = "en-us"
 title = "Yilda Boukhtouchen"
 theme = "cactus"
@@ -20,20 +20,18 @@ url = "/cv"
 weight = 3
 
 [params]
-description = "Hello! I am a graduate student in the Queen's University High Energy Astrophysics Theory Group!"
+description = "Hello! My name is Yilda (she/her) and I am a graduate student in the Queen's University High Energy and Astroparticle Theory group."
+colortheme = "white"
 
 [[params.social]]
 name = "email"
 link = "https://www.queensu.ca/physics/yilda-boukhtouchen"
 
 [[params.social]]
-name = "github"
-link = "https://github.com/yildab"
-
-[[params.social]]
 name = "linkedin"
-link = "https://www.linkedin.com/in/yilda-boukhtouchen/"
+link = "https://ca.linkedin.com/in/yilda-boukhtouchen"
 
-[[params.social]]
-name = "twitter"
-link = "https://www.twitter.com/yildabkh"
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
