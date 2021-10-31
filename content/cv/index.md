@@ -90,9 +90,6 @@ Department of Physics and Astronomy, University of Waterloo, Waterloo, ON
 **Spanish**, high intermediate  
 2016 · International Baccalaureate, Spanish B SL
 
-**Korean**, high beginner  
-2018 · KOREA 101 and KOREA 102, University of Waterloo
-
 ## **Technical Skills**
 
 **Programming Languages**
