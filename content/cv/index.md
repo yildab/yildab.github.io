@@ -15,7 +15,7 @@ Queen's University, Kingston, ON
 Minors in Pure Mathematics and Astrophysics  
 University of Waterloo, Waterloo, ON
 
-## **Research Experience**
+## **Research Experiences**
 
 Sept 2020 - Present
 **Queen's High-Energy Astrophysics Theory (QHEAT) Group Member**  
