@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:53582/cv/</loc>
+    <lastmod>2024-03-17T12:35:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:53582/</loc>
+    <lastmod>2024-03-17T12:35:19-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:53582/about/</loc>
+    <lastmod>2024-03-17T12:26:59-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:53582/posts/lta2020/</loc>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:53582/posts/</loc>
+    <lastmod>2021-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:53582/categories/</loc>
+  </url><url>
+    <loc>http://localhost:53582/tags/</loc>
+  </url>
+</urlset>

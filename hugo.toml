@@ -1,0 +1,37 @@
+baseURL = 'https://physics.yilda.ca'
+languageCode = 'en-us'
+title = 'Yilda Boukhtouchen'
+theme = 'cactus'
+
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "CV"
+url = "/cv"
+weight = 3
+
+[params]
+description = "Hello! My name is Yilda (she/her) and I am a graduate student in the Queen's University High Energy and Astroparticle Theory group (QHEAT)."
+colortheme = "white"
+
+[[params.social]]
+name = "email"
+link = "https://www.queensu.ca/physics/yilda-boukhtouchen"
+
+[[params.social]]
+name = "linkedin"
+link = "https://ca.linkedin.com/in/yilda-boukhtouchen"
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true

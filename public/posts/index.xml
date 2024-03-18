@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Yilda Boukhtouchen</title>
+    <link>http://localhost:53582/posts/</link>
+    <description>Recent content in Posts on Yilda Boukhtouchen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:53582/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Article: Let&#39;s Talk Astrophysics Symposium</title>
+      <link>http://localhost:53582/posts/lta2020/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:53582/posts/lta2020/</guid>
+      <description>Last weekend, the IDEAS Initiative in collaboration with Let&amp;rsquo;s Talk Science at Queen&amp;rsquo;s University ran Let&amp;rsquo;s Talk Astrophysics, a high school symposium about astrophysics. The event was incredibly successful, with over 300 unique participants. The symposium was aimed towards fostering Canadian high school students to have an interest in advancing into the natural sciences while exposing them to a maximally diverse set of volunteer physicists.&#xA;- &amp;ldquo;Let&amp;rsquo;s Talk Astrophysics Symposium&amp;rdquo;, departmental news article</description>
+    </item>
+  </channel>
+</rss>

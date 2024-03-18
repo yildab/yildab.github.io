@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yilda Boukhtouchen</title>
+    <link>http://localhost:53582/</link>
+    <description>Recent content on Yilda Boukhtouchen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Mar 2024 12:35:19 -0400</lastBuildDate>
+    <atom:link href="http://localhost:53582/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>http://localhost:53582/cv/</link>
+      <pubDate>Sun, 17 Mar 2024 12:35:19 -0400</pubDate>
+      <guid>http://localhost:53582/cv/</guid>
+      <description>Education Sept 2020 - Present MSc/PhD, Physics&#xA;Queen&amp;rsquo;s University, Kingston, ON&#xA;2020 BSc, Honours Mathematical Physics&#xA;Minors in Pure Mathematics and Astrophysics&#xA;University of Waterloo, Waterloo, ON&#xA;Research Experiences Sept 2020 - Present Graduate Research Assistant&#xA;Queen&amp;rsquo;s University, Kingston, ON&#xA;Advisor: Joseph Bramante, Queen&amp;rsquo;s High Energy Astroparticle Theory Group&#xA;May 2019 - Aug 2019 Undergraduate Research Assistant&#xA;Université de Sherbrooke, Sherbrooke, QC&#xA;Applying Deep Learning to CT-QMC Algorithms&#xA;Advisor: André-Marie Tremblay, Institut Quantique de Sherbrooke</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:53582/about/</link>
+      <pubDate>Sun, 17 Mar 2024 12:26:59 -0400</pubDate>
+      <guid>http://localhost:53582/about/</guid>
+      <description>I am a second-year PhD student in astroparticle physics at Queen&amp;rsquo;s University. I am supervised by Dr. Joseph Bramante and am part of the Queen&amp;rsquo;s High Energy and Astroparticle Theory group (QHEAT). My research interests centre around dark matter phenomenology, and in particular, direct and indirect detection signatures of heavy dark matter.&#xA;I graduated with a BSc in mathematical physics from the University of Waterloo in 2020, minoring in astrophysics and pure mathematics.</description>
+    </item>
+    <item>
+      <title>Article: Let&#39;s Talk Astrophysics Symposium</title>
+      <link>http://localhost:53582/posts/lta2020/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:53582/posts/lta2020/</guid>
+      <description>Last weekend, the IDEAS Initiative in collaboration with Let&amp;rsquo;s Talk Science at Queen&amp;rsquo;s University ran Let&amp;rsquo;s Talk Astrophysics, a high school symposium about astrophysics. The event was incredibly successful, with over 300 unique participants. The symposium was aimed towards fostering Canadian high school students to have an interest in advancing into the natural sciences while exposing them to a maximally diverse set of volunteer physicists.&#xA;- &amp;ldquo;Let&amp;rsquo;s Talk Astrophysics Symposium&amp;rdquo;, departmental news article</description>
+    </item>
+  </channel>
+</rss>
